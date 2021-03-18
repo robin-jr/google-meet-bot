@@ -10,15 +10,15 @@ chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
 
 # Initializing Classes
 oopClass = {
-    "link": "https://meet.google.com/lookup/bnt77k65q5?authuser=0&hs=179", "name": "OOP"}
+    "link": "https://meet.google.com/lookup/bnt77k65q?authuser=0&hs=179", "name": "OOP"}
 dpdClass = {
-    "link": "https://meet.google.com/lookup/fg24ncramk?authuser=0&hs=179", "name": "DPD"}
+    "link": "https://meet.google.com/lookup/fg24ncrak?authuser=0&hs=179", "name": "DPD"}
 dmClass = {
-    "link": "https://meet.google.com/lookup/hi7cyixnw3?authuser=0&hs=179", "name": "DM"}
+    "link": "https://meet.google.com/lookup/hi7cyixw3?authuser=0&hs=179", "name": "DM"}
 dsClass = {
-    "link": "https://meet.google.com/lookup/hkyjwb3oif?authuser=0&hs=179", "name": "DS"}
+    "link": "https://meet.google.com/lookup/hkyjwboif?authuser=0&hs=179", "name": "DS"}
 coClass = {
-    "link": "https://meet.google.com/lookup/b65cg7mq4z?authuser=0&hs=179", "name": "CO"}
+    "link": "https://meet.google.com/lookup/b65cgmq4z?authuser=0&hs=179", "name": "CO"}
 
 timeTable = [
     [dpdClass, oopClass, dmClass, dsClass],  # mon
